@@ -6,8 +6,7 @@
 
 <div align="center">
   <img src= "https://count.getloli.com/get/@:SIGEER2222?theme=rule34"/>
-  ![SIGEER2222](https://count.getloli.com/get/@:SIGEER2222?theme=rule34)
-</div>
+ </div>
 
 <!-- 技术栈徽章墙 -->
 <div align="center">
