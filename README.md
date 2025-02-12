@@ -4,3 +4,11 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 
+## 数据
+
+![Poker-sang](https://github-readme-stats.vercel.app/api?username=Poker-sang&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)
+
+![Poker-sang](https://github-readme-stats.vercel.app/api/top-langs/?username=Poker-sang&layout=compact&langs_count=10&hide_title=true&hide_border=true)
+
+![Poker-sang](https://count.getloli.com/get/@:Poker-sang?theme=rule34)
+
