@@ -1,7 +1,7 @@
 
 <!-- 头部艺术字 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CSharp+Developer+💻;Lifelong+Learner+📚;Building+Cool+Stuff+🚀" alt="动态打字效果" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C#+Developer+💻;Lifelong+Learner+📚;Building+Cool+Stuff+🚀" alt="动态打字效果" />
 </div>
 
 
@@ -43,10 +43,10 @@
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">AI Chat Platform</h3>
+      <h3 align="center">RoslynCat</h3>
       <div align="center">
         <a href="https://github.com/SIGEER2222/ai-chat-platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIGEER2222&repo=ai-chat-platform&theme=radical" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIGEER2222&repo=RoslynCat&theme=radical" />
         </a>
       </div>
     </td>
