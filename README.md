@@ -1,8 +1,9 @@
 
 <!-- 头部艺术字 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;C%23+Developer+💻;Lifelong+Learner+📚;Building+Cool+Stuff+🚀" alt="动态打字效果" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Coding+With+Passion+❤️;Learning+Every+Day+📚;Building+The+Future+🚀" alt="动态打字效果" />
 </div>
+
 
 <div align="center">
   <img src= "https://count.getloli.com/get/@:SIGEER2222?theme=rule34"/>
