@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Full-Stack+Developer+🚀;Open+Source+Enthusiast+❤️" alt="动态打字效果" />
 </div>
 
+![SIGEER2222](https://count.getloli.com/get/@:SIGEER2222?theme=rule34)
+
 <!-- 技术栈徽章墙 -->
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-2396D1?logo=csharp&logoColor=white" />
@@ -74,13 +76,4 @@
 <!-- 使用自动化工具更新 -->
 <!-- 使用 https://github.com/gautamkrishnar/blog-post-workflow -->
 
-
-
-## 数据
-
-![SIGEER2222](https://github-readme-stats.vercel.app/api?username=SIGEER2222&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)
-
-![SIGEER2222](https://github-readme-stats.vercel.app/api/top-langs/?username=SIGEER2222&layout=compact&langs_count=10&hide_title=true&hide_border=true)
-
-![SIGEER2222](https://count.getloli.com/get/@:SIGEER2222?theme=rule34)
 
